@@ -11,7 +11,7 @@
 
     <header class="bg-white shadow-md p-4">
         <div class="max-w-6xl mx-auto flex justify-between items-center">
-            <img src="{{ asset('logo.png') }}" alt="Logo" class="h-12">
+            <img src="{{ asset('isomalogo.png') }}" alt="Logo" class="h-12">
         </div>
     </header>
 
