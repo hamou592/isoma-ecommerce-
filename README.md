@@ -46,7 +46,8 @@ ecommerce-project/
 📄 Product Details Page <img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/17532fe1-f608-4fce-bef2-ccd4933ff26c" />
 
 
-💬 Commander Page <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/5a35aef6-37dd-403c-b22b-817cced30a91" />
+💬 Commander Page <img width="1913" height="578" alt="image" src="https://github.com/user-attachments/assets/d5a52404-1129-4474-b0a8-c1bcae614e6a" />
+
 
 
 🔑 Admin Login <img width="1110" height="660" alt="image" src="https://github.com/user-attachments/assets/db56ed82-f1a5-439b-8af1-29f985c2f158" />
