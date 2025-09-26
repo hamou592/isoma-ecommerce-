@@ -53,7 +53,8 @@ ecommerce-project/
 🔑 Admin Login <img width="1110" height="660" alt="image" src="https://github.com/user-attachments/assets/db56ed82-f1a5-439b-8af1-29f985c2f158" />
 
 
-📊 Admin Dashboard <img width="1893" height="888" alt="image" src="https://github.com/user-attachments/assets/ae6d44df-c8a2-4d62-ba28-fcb97b6a2fbe" />
+📊 Admin Dashboard <img width="1873" height="881" alt="image" src="https://github.com/user-attachments/assets/aa11d709-8eaa-4999-8312-199b615a2b8c" />
+
 <img width="1892" height="876" alt="image" src="https://github.com/user-attachments/assets/212ef2da-1d9a-4cce-8c61-744c2893b01f" />
 <img width="1881" height="907" alt="image" src="https://github.com/user-attachments/assets/55cd4b63-3869-4a9b-a2ed-e6d9c9431b0c" />
 <img width="1891" height="882" alt="image" src="https://github.com/user-attachments/assets/b9fc745a-cbba-4cee-a73e-b5f01f294f43" />
