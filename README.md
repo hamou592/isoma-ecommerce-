@@ -1,66 +1,116 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+🛍️ Laravel E-commerce Platform
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+A modern, responsive e-commerce platform built with Laravel, Blade, and MySQL.
+The project includes an admin panel for managing products and clients, and a public landing page to showcase products for customers.
 
-## About Laravel
+🚀 Features
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+👤 Authentication System – Only admin can access the dashboard.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+🛒 Product Management (CRUD) – Add, update, delete, and list products.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+👥 Client Management (CRUD) – Clients are auto-added when they place a command.
 
-## Learning Laravel
+💬 Commander Page – Clients can send messages/orders, which get saved to the database.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+📦 Product Showcase – Products from admin panel are displayed dynamically on the landing page.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+🔎 Product Filtering – Search and filter products on the landing page.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+📱 Responsive Design – Works on all devices with a modern and friendly UI.
 
-## Laravel Sponsors
+🛠️ Tech Stack
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Backend: Laravel (PHP Framework)
 
-### Premium Partners
+Frontend: Blade Templates, HTML, CSS, JavaScript
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Database: MySQL
 
-## Contributing
+Authentication: Laravel built-in auth system
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+📂 Project Structure
+ecommerce-project/
+│── app/              # Laravel app code
+│── resources/views/  # Blade templates (frontend + admin panel)
+│── public/           # Public assets (CSS, JS, Images)
+│── routes/web.php    # Application routes
+│── database/         # Migrations & seeds
+│── ecommerce_db.sql  # Database backup
+│── README.md         # Project documentation
 
-## Code of Conduct
+📸 Screenshots
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+📦 Product Showcase <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/8d2bdba9-a683-42d4-abea-463a92d7a716" />
 
-## Security Vulnerabilities
+📄 Product Details Page <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/3b8c6515-99e8-4adc-a9bd-af464a5b7d8b" />
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+💬 Commander Page <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/5a35aef6-37dd-403c-b22b-817cced30a91" />
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+🔑 Admin Login <img width="1110" height="660" alt="image" src="https://github.com/user-attachments/assets/db56ed82-f1a5-439b-8af1-29f985c2f158" />
+
+
+📊 Admin Dashboard <img width="1893" height="888" alt="image" src="https://github.com/user-attachments/assets/ae6d44df-c8a2-4d62-ba28-fcb97b6a2fbe" />
+<img width="1892" height="876" alt="image" src="https://github.com/user-attachments/assets/212ef2da-1d9a-4cce-8c61-744c2893b01f" />
+<img width="1881" height="907" alt="image" src="https://github.com/user-attachments/assets/55cd4b63-3869-4a9b-a2ed-e6d9c9431b0c" />
+<img width="1891" height="882" alt="image" src="https://github.com/user-attachments/assets/b9fc745a-cbba-4cee-a73e-b5f01f294f43" />
+
+
+⚙️ Installation & Usage
+🔽 Clone the repo
+git clone [https://github.com/hamou592/laravel-ecommerce.git](https://github.com/hamou592/isoma-ecommerce-.git)
+
+📦 Install dependencies
+composer install
+npm install && npm run dev
+
+⚙️ Setup environment
+
+Duplicate .env.example and rename to .env
+
+cp .env.example .env
+
+
+Update database credentials inside .env:
+
+DB_DATABASE=ecommerce_db
+DB_USERNAME=root
+DB_PASSWORD=
+
+🗄️ Import database
+mysql -u root -p ecommerce_db < ecommerce_db.sql
+
+🔑 Generate app key
+php artisan key:generate
+
+🚀 Run the server
+php artisan serve
+
+
+Now open http://127.0.0.1:8000
+ 🎉
+
+📦 Deployment
+
+For hosting, you can use:
+
+Shared Hosting (cPanel, etc.) – upload Laravel files and import DB.
+
+VPS / Cloud (DigitalOcean, AWS, etc.) – set up LAMP/LEMP server.
+
+Laravel Forge / Ploi / Heroku – one-click deployments for Laravel apps.
+
+🔮 Future Improvements
+
+Add online payment integration (Stripe/PayPal)
+
+Add multi-language support (Arabic / French / English)
+
+Add product categories & inventory management
+
+Add order tracking system
+
+👨‍💻 Author
+
+Hamou Nasreddine – [GitHub Profile](https://github.com/hamou592)
