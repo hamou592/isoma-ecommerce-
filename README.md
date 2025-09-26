@@ -43,7 +43,8 @@ ecommerce-project/
 
 📦 Product Showcase <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/8d2bdba9-a683-42d4-abea-463a92d7a716" />
 
-📄 Product Details Page <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/3b8c6515-99e8-4adc-a9bd-af464a5b7d8b" />
+📄 Product Details Page <img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/17532fe1-f608-4fce-bef2-ccd4933ff26c" />
+
 
 💬 Commander Page <img width="1886" height="875" alt="image" src="https://github.com/user-attachments/assets/5a35aef6-37dd-403c-b22b-817cced30a91" />
 
